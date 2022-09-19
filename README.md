@@ -1,7 +1,7 @@
 # E Commerce Backend
 
 ## Description
-This command line employee tracker app uses Inquirer to gather user input and updates the employee database using SQL.
+Backend for an e-commerce website. Uses an express.js API, along with Sequelize to interact with a MySQL database.
 
 [Demo](https://www.youtube.com/watch?v=lbIzwwv8g9E)
 
